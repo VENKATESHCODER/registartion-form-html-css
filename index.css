@@ -1,0 +1,52 @@
+form {
+    border: 1px solid #ffa500;
+    margin: 235px;
+    margin-top: 1px;
+    border-radius: 5px;
+  }
+  h2 {
+    text-align: center;
+    color: #ffa500;
+    font-size: 160%;
+  }
+  p {
+    text-align: center;
+    font-size: 100%;
+  }
+  label {
+    padding: 5px;
+    font-size: 120%;
+  }
+  input[type="text"] {
+    width: 800px;
+    margin: 10px;
+    font-size: 120%;
+  }
+  input[type="email"] {
+    width: 800px;
+    margin: 10px;
+    font-size: 120%;
+  }
+  input[type="tel"] {
+    width: 800px;
+    margin: 10px;
+    font-size: 120%;
+  }
+  input[type="month"] {
+    width: 800px;
+    margin: 10px;
+    font-size: 120%;
+  }
+  input[type="submit"] {
+    width: 808px;
+    margin: 10px;
+    background-color: #ffa500;
+    border-color: #ffa500;
+    border-radius: 2px;
+    font-size: 120%;
+  }
+  input[type="time"] {
+    width: 800px;
+    margin: 10px;
+    font-size: 100%;
+  }
